@@ -39,3 +39,7 @@ Flows :-
 
         In Case of Hot Streams data will be produced , even there is not consumer.
         In case of Hot Stremas once data is lost , it cannot be received.
+
+
+          Each flow will have an independent Object.
+          For each consumer will get a different Flow Object.
